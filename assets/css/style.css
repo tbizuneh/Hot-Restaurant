@@ -1,0 +1,32 @@
+
+h1  {
+    color: darkgreen;
+    text-align: center;
+    margin-top: 20px;
+    font-family: fantasy;
+}
+h2 {
+   color: black;
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Lobster', cursive;
+}
+p {
+    color: black;
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Lobster', cursive;
+}
+button {
+    font-weight: bold;
+    background-color: lightslategray !important;
+    color: white;
+    font-size: 25px;
+    margin-bottom: 20px;
+    font-family: 'Lobster', cursive;
+    margin-top: 50px;
+}
+img{
+    height: 400px;
+    width: 1100px;
+}
